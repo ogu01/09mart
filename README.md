@@ -87,7 +87,7 @@
       <img src="https://github.com/user-attachments/assets/7fb94761-5af8-42f0-9c02-7e7cd4446159" width="100%">
     </td>
     <td align="center">
-      <img src="!https://github.com/user-attachments/assets/5916f1ba-9096-4b4b-a99a-227d4eac327e" width="100%">
+      <img src="https://github.com/user-attachments/assets/5916f1ba-9096-4b4b-a99a-227d4eac327e" width="100%">
     </td>
   </tr>
   <tr>
