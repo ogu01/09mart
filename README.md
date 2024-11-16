@@ -36,44 +36,82 @@
 <br><br><br>
 
 ## 📁 erd
+<img src="https://github.com/user-attachments/assets/eeaf1d6c-d2a8-40f6-95b8-a08e6e2a2cb8">
+<br><br><br>
 
 
 ## 💻 화면 구성
 <table>
   <tr>
-    <th>로그인</th>
-    <th>메인 페이지</th>
+    <th>일반 회원 메인 페이지</th>
+    <th>일반 회원 메인 페이지2</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fa67b9ee-3c6a-4bec-922c-eba9063e95ca" width="100%">
+      <img src="https://github.com/user-attachments/assets/9d1274a3-7020-4106-a02b-3106585e636b" width="100%">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ddcdb37a-216e-4534-bd35-0af6640d5256" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <th>마이 페이지</th>
-    <th>검색창</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c824c804-ec24-4097-bcdf-68184674a283" width="100%">
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ac7b0290-5980-4a98-86c7-83d0a4c1b78d" width="100%">
+      <img src="https://github.com/user-attachments/assets/bc525110-b1de-4f89-9272-b15b7de9b68c" width="100%">
     </td>
   </tr>
   <tr>
-    <th>검색 결과</th>
-    <th>해수욕장 상세 정보</th>
+    <th>구매 페이지</th>
+    <th>주문 내역</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/04300bd6-ccbc-4d2d-b97e-a1570e61ee08" width="100%">
+      <img src="https://github.com/user-attachments/assets/c07294c5-ef35-4c54-966e-70aeb3d7cfe9" width="100%">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fb8dcc2d-db87-4707-b2c4-6c0377220d69" width="100%">
+      <img src="https://github.com/user-attachments/assets/85092c57-e454-4bc9-9c5c-fad18a5c2037" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <th>판매자 페이지</th>
+    <th>상품 목록</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2eaf9a54-17fc-43a5-b42c-fe0709aafa0c" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e86d3009-cfad-432e-ae2e-37faa79a9dae" width="100%">
+    </td>
+  </tr>
+    <tr>
+    <th>배송기사 페이지</th>
+    <th>채팅</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7fb94761-5af8-42f0-9c02-7e7cd4446159" width="100%">
+    </td>
+    <td align="center">
+      <img src="!https://github.com/user-attachments/assets/5916f1ba-9096-4b4b-a99a-227d4eac327e" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <th>관리자 페이지</th>
+    <th>공지사항</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/596c1873-6cdc-49f8-8cd3-e045665306d1" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d622b2c9-2ee6-4f9d-8ef7-d8f8b62a5bb0" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <th>후기 및 댓글</th>
+    <th>마이페이지</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8a531d9b-dcd6-4322-9252-3421091a2b5d" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/85578feb-a687-4a1c-b29b-c2a559068006" width="100%">
     </td>
   </tr>
 </table>
